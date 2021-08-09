@@ -6,9 +6,9 @@ A 3D Printable Pen Plotter Toolhead for the Creality Ender 3 3D Printer
 
 **Originally launched as a [product on Tindie](https://www.tindie.com/products/andrew_sink/pltr-v2-pen-plotter-toolhead/), I've since decided to release it for free!**
 
-The pltr v2 is a 3D printed pen plotter toolhead that is designed to mount on the [Creality Ender 3 Pro](https://amzn.to/37qF5zg) and [Creality Ender 3 V2](https://amzn.to/3s4fB4s) 3D printers. The Ender 3 is an inexpensive 3D printer that is perfect for converting to a pen plotter by removing and replacing only a few components.
+The pltr v2 is a 3D printed pen plotter toolhead that is designed to mount on the [Creality Ender 3 Pro](https://amzn.to/37qF5zg) and [Creality Ender 3 V2](https://amzn.to/3s4fB4s) 3D printers. [Installing the pltr is simple](https://youtu.be/c1Wo9KkZKNQ), and only requires three flathead bolts to attach to your printer. 
 
-[Installing the pltr is simple](https://youtu.be/c1Wo9KkZKNQ), and only requires three flathead bolts to attach to your printer. The [User Guide .PDF](https://github.com/AndrewSink/pltr/blob/main/pltr%20v2%20User%20Guide%20Rev%20C.2.pdf) contains all of the information you should need to get your pltr toolheard printed out and up and running.
+The [User Guide .PDF](https://github.com/AndrewSink/pltr/blob/main/pltr%20v2%20User%20Guide%20Rev%20C.2.pdf) contains all of the information you should need to get your pltr toolheard printed out and up and running.
 
 ![](https://user-images.githubusercontent.com/46334898/128649924-20f4fdde-0154-433b-928d-fcd76984723f.jpeg)
 
@@ -26,3 +26,5 @@ The pltr v2 is a 3D printed pen plotter toolhead that is designed to mount on th
 The pltr has four mounting points: two fixed and two spring-loaded, so you can experiment with a wide variety of writing implements, pens, brushes, and more!
 
 Designed and manufactured in Charlotte, North Carolina using GreenGate3D recycled PETG.
+
+
