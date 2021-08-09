@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/46334898/128704015-6d35a433-be92-40f1-
 
 The pltr has four mounting points: two fixed and two spring-loaded, so you can experiment with a wide variety of writing implements, pens, brushes, and more!
 
-Designed and manufactured in Charlotte, North Carolina using GreenGate3D recycled PETG.
+Designed and manufactured in Charlotte, North Carolina using [GreenGate3D recycled PETG](https://greengate3d.com/?ref=fpowfUvprmSUI).
 
 https://user-images.githubusercontent.com/46334898/128702978-db2b59bf-4a6f-4ef1-8289-b92065d79d5a.mp4
 
