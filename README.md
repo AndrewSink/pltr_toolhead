@@ -17,14 +17,14 @@ https://user-images.githubusercontent.com/46334898/128704015-6d35a433-be92-40f1-
 
 ## Mounting Hardware Required:
 
-- 2x M3x40 Bolt
-- 2x M3 Locking Nut
-- 3x M3x10 Flathead Bolt
-- 4x M4x15 Mushroom Cap Bolt
-- 2x Springs
-- 4x Binder Clips
-- 1x 2mm Allen Key
-- 1x 2.5mm Allen Key
+- 2x [M3x40 Bolt](https://www.mcmaster.com/91292A024)
+- 2x [M3 Locking Nut](https://www.mcmaster.com/90576A102)
+- 3x [M3x10 Flathead Bolt](https://www.mcmaster.com/92125A130)
+- 4x [M4x15 Mushroom Cap Bolt](https://www.mcmaster.com/92095A125)
+- 2x [Springs](https://www.mcmaster.com/9657K627)
+- 4x [Binder Clips](https://amzn.to/3lKdcdM)
+- 1x [2mm Allen Key](https://www.mcmaster.com/7289A12)
+- 1x [2.5mm Allen Key](https://www.mcmaster.com/7289A13)
 
 ![](https://user-images.githubusercontent.com/46334898/128649924-20f4fdde-0154-433b-928d-fcd76984723f.jpeg)
 
