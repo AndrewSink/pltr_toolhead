@@ -8,9 +8,12 @@ A 3D Printable Pen Plotter Toolhead for the Creality Ender 3 3D Printer
 
 The pltr v2 is a 3D printed pen plotter toolhead that is designed to mount on the [Creality Ender 3 Pro](https://amzn.to/37qF5zg) and [Creality Ender 3 V2](https://amzn.to/3s4fB4s) 3D printers. [Installing the pltr is simple](https://youtu.be/c1Wo9KkZKNQ), and only requires three flathead bolts to attach to your printer. 
 
-The [User Guide .PDF](https://github.com/AndrewSink/pltr/blob/main/pltr%20v2%20User%20Guide%20Rev%20C.2.pdf) contains all of the information you should need to get your pltr toolheard printed out and up and running.
+The [User Guide .PDF](https://github.com/AndrewSink/pltr/blob/main/pltr%20v2%20User%20Guide%20Rev%20C.2.pdf) contains all of the information you should need to get starter with your pltr toolhead. Once the pltr toolhead has been installed, you can use the included .gcode files to calibrate your machine. 
 
-![](https://user-images.githubusercontent.com/46334898/128649924-20f4fdde-0154-433b-928d-fcd76984723f.jpeg)
+You can also find the full build instructions on YouTube: https://youtu.be/c1Wo9KkZKNQ
+
+
+https://user-images.githubusercontent.com/46334898/128704015-6d35a433-be92-40f1-b036-9eccbbc82462.mp4
 
 ## Mounting Hardware Required:
 
@@ -23,8 +26,11 @@ The [User Guide .PDF](https://github.com/AndrewSink/pltr/blob/main/pltr%20v2%20U
 - 1x 2mm Allen Key
 - 1x 2.5mm Allen Key
 
+![](https://user-images.githubusercontent.com/46334898/128649924-20f4fdde-0154-433b-928d-fcd76984723f.jpeg)
+
 The pltr has four mounting points: two fixed and two spring-loaded, so you can experiment with a wide variety of writing implements, pens, brushes, and more!
 
 Designed and manufactured in Charlotte, North Carolina using GreenGate3D recycled PETG.
 
+https://user-images.githubusercontent.com/46334898/128702978-db2b59bf-4a6f-4ef1-8289-b92065d79d5a.mp4
 
