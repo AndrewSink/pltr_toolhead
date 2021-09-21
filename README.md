@@ -32,5 +32,7 @@ The pltr has four mounting points: two fixed and two spring-loaded, so you can e
 
 Designed and manufactured in Charlotte, North Carolina using [GreenGate3D recycled PETG](https://greengate3d.com/?ref=fpowfUvprmSUI).
 
+Read about the [pltr v2 on 3DWithUs](https://3dwithus.com/pltr-pen-plotter-toolhead-for-3d-printers-3d-art-images).
+
 https://user-images.githubusercontent.com/46334898/128702978-db2b59bf-4a6f-4ef1-8289-b92065d79d5a.mp4
 
